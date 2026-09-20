@@ -33,7 +33,7 @@
     }
 }
 
-/****
+/**
  * Your MedianFinder object will be instantiated and called as such:
  * MedianFinder obj = new MedianFinder();
  * obj.addNum(num);
